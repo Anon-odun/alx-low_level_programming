@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - prints the alphabets in lowercase and uppercase
+* main - prints all single numbers of base 10
 * Return: 0
 */
 int main(void)
